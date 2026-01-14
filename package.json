@@ -1,5 +1,5 @@
 {
-  "name": "@kasymjaparov/bakai-icons",
+  "name": "@bakai/bakai-icons",
   "version": "0.1.2",
   "description": "Легкая коллекция SVG иконок для React приложений экосистемы 'Бакай банк'",
   "main": "dist/index.js",
@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kasymjaparov/bakai-icons"
+    "url": "https://github.com/bakai-dev-team/bakai-icons"
   },
   "keywords": [
     "react",
