@@ -1,4 +1,4 @@
-# @kasymjaparov/bakai-icons
+# @bakai/bakai-icons
 
 Легкая коллекция SVG иконок для React приложений экосистемы "Бакай банк"
 
