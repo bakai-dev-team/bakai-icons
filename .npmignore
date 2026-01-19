@@ -3,3 +3,5 @@ src
 rollup.config.js
 tsconfig.json
 .gitignore
+.claude
+.idea

@@ -12,3 +12,5 @@ package-lock.json
 .prettierrc
 index.html
 README.md
+.claude
+.idea
