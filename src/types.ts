@@ -75,5 +75,6 @@ export const ICON_TYPES = {
     user_check: "user_check",
     copy: "copy",
     passengers: "passengers",
+    heart: "heart"
 } as const
 export type TIconType = keyof typeof ICON_TYPES;

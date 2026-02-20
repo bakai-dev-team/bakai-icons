@@ -74,5 +74,6 @@ export declare const ICON_TYPES: {
     readonly passport_back: "passport_back";
     readonly user_check: "user_check";
     readonly copy: "copy";
+    readonly passengers: "passengers";
 };
 export type TIconType = keyof typeof ICON_TYPES;
