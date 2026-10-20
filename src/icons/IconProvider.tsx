@@ -339,7 +339,7 @@ export const IconProvider = () => {
                       strokeLinejoin="round"/>
                 <path
                     d="M7.50024 9L6.50024 9C4.56725 9 3.00024 10.567 3.00024 12.5L3.00024 17.5C3.00024 19.433 4.56725 21 6.50024 21L17.5002 21C19.4332 21 21.0002 19.433 21.0002 17.5L21.0002 12.5C21.0002 10.567 19.4332 9 17.5002 9L16.5002 9"
-                    stroke="white" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"/>
+                    stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"/>
             </symbol>
             <svg id={ICON_TYPES.check} viewBox="0 0 20 21" fill="none">
                 <path d="M4.16699 10.5L8.33366 14.6667L16.667 6.33337" stroke="currentColor" strokeWidth="1.5"
