@@ -335,7 +335,7 @@ export const IconProvider = () => {
                     stroke="currentColor" strokeWidth="1.3125" strokeLinecap="round" strokeLinejoin="round"/>
             </symbol>
             <symbol id={ICON_TYPES.download} viewBox="0 0 24 24" fill="none">
-                <path d="M9 12L12 15M12 15L15 12M12 15L12 3" stroke="white" strokeWidth="1.6" strokeLinecap="round"
+                <path d="M9 12L12 15M12 15L15 12M12 15L12 3" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round"
                       strokeLinejoin="round"/>
                 <path
                     d="M7.50024 9L6.50024 9C4.56725 9 3.00024 10.567 3.00024 12.5L3.00024 17.5C3.00024 19.433 4.56725 21 6.50024 21L17.5002 21C19.4332 21 21.0002 19.433 21.0002 17.5L21.0002 12.5C21.0002 10.567 19.4332 9 17.5002 9L16.5002 9"
